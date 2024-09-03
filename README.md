@@ -9,6 +9,7 @@
 7.[Python-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/Python-Interview-Questions)<br>
 8.[SQL-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/SQL-Interview-Questions)<br>
 9.[HR-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/HR-Interview-Questions)<br>
+10.[Java-8-Interview-Questions](https://boldcoder.blogspot.com/2024/09/java-8-interview-questions.html)
 
 ### Star this repository and share it with your friends
 
